@@ -1,0 +1,4 @@
+$ nmap -v -sV -p- -Pn -n --disable-arp-ping --source-port 53 -oX freshTCP.xml 10.129.2.47
+
+
+HTB{kjnsdf2n982n1827eh76238s98di1w6}
